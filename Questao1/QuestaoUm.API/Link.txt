@@ -1,0 +1,8 @@
+﻿para criar uma string no visual studio local com sql express edition
+Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=ContaBancaria;Integrated Security=True
+
+para criar no SqlServer 
+Data Source=.;Initial Catalog=TreinamentosYoutube;User Id=sa;Password=123456;TrustServerCertificate=true;
+
+
+

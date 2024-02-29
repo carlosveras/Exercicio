@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\MiranteQuestao5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28E45453-FB07-4923-BAEF-3135D5A756DB}|QuestaoCinco.Api\\QuestaoCinco.Api.csproj|c:\\projetos\\mirantequestao5\\questaocinco.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28E45453-FB07-4923-BAEF-3135D5A756DB}|QuestaoCinco.Api\\QuestaoCinco.Api.csproj|solutionrelative:questaocinco.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28E45453-FB07-4923-BAEF-3135D5A756DB}|QuestaoCinco.Api\\QuestaoCinco.Api.csproj|c:\\projetos\\mirantequestao5\\questaocinco.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{28E45453-FB07-4923-BAEF-3135D5A756DB}|QuestaoCinco.Api\\QuestaoCinco.Api.csproj|solutionrelative:questaocinco.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD263E1-72FE-4D85-A7FA-C4662F8C8DD1}|QuestaoCinco.Infra.Data\\QuestaoCinco.Infra.Data.csproj|c:\\projetos\\mirantequestao5\\questaocinco.infra.data\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DD263E1-72FE-4D85-A7FA-C4662F8C8DD1}|QuestaoCinco.Infra.Data\\QuestaoCinco.Infra.Data.csproj|solutionrelative:questaocinco.infra.data\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28E45453-FB07-4923-BAEF-3135D5A756DB}|QuestaoCinco.Api\\QuestaoCinco.Api.csproj|c:\\projetos\\mirantequestao5\\questaocinco.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{28E45453-FB07-4923-BAEF-3135D5A756DB}|QuestaoCinco.Api\\QuestaoCinco.Api.csproj|solutionrelative:questaocinco.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28E45453-FB07-4923-BAEF-3135D5A756DB}|QuestaoCinco.Api\\QuestaoCinco.Api.csproj|c:\\projetos\\mirantequestao5\\questaocinco.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{28E45453-FB07-4923-BAEF-3135D5A756DB}|QuestaoCinco.Api\\QuestaoCinco.Api.csproj|solutionrelative:questaocinco.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\MiranteQuestao5\\QuestaoCinco.Api\\Program.cs",
+              "RelativeDocumentMoniker": "QuestaoCinco.Api\\Program.cs",
+              "ToolTip": "C:\\Projetos\\MiranteQuestao5\\QuestaoCinco.Api\\Program.cs",
+              "RelativeToolTip": "QuestaoCinco.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T18:24:44.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Projetos\\MiranteQuestao5\\QuestaoCinco.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "QuestaoCinco.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Projetos\\MiranteQuestao5\\QuestaoCinco.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "QuestaoCinco.Api\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-29T18:24:26.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Projetos\\MiranteQuestao5\\QuestaoCinco.Infra.Data\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "QuestaoCinco.Infra.Data\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Projetos\\MiranteQuestao5\\QuestaoCinco.Infra.Data\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "QuestaoCinco.Infra.Data\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T18:24:00.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projetos\\MiranteQuestao5\\QuestaoCinco.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "QuestaoCinco.Api\\appsettings.json",
+              "ToolTip": "C:\\Projetos\\MiranteQuestao5\\QuestaoCinco.Api\\appsettings.json",
+              "RelativeToolTip": "QuestaoCinco.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-29T18:23:44.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Projetos\\MiranteQuestao5\\QuestaoCinco.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "QuestaoCinco.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Projetos\\MiranteQuestao5\\QuestaoCinco.Api\\appsettings.Development.json",
+              "RelativeToolTip": "QuestaoCinco.Api\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-29T18:23:42.305Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

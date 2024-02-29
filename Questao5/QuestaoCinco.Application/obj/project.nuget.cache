@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "oBKfyVbLqrKKIz7Pj7u06d0609wjI+Fm9OgEh328PP7toRHLNlh3DFiWGtJEAfKsPOGSA8Aa/3UY+ZQ7smutpw==",
+  "success": true,
+  "projectFilePath": "C:\\TestesDeEmpresas\\Mirante\\Questao5\\QuestaoCinco.Application\\QuestaoCinco.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\carlo\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\carlo\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\carlo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\carlo\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

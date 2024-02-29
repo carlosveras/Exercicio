@@ -1,7 +1,0 @@
-C:\Projetos\MiranteQuestao5\CleanArchMvc.Api\obj\Debug\net5.0\CleanArchMvc.Api.csproj.AssemblyReference.cache
-C:\Projetos\MiranteQuestao5\CleanArchMvc.Api\obj\Debug\net5.0\CleanArchMvc.Api.GeneratedMSBuildEditorConfig.editorconfig
-C:\Projetos\MiranteQuestao5\CleanArchMvc.Api\obj\Debug\net5.0\CleanArchMvc.Api.AssemblyInfoInputs.cache
-C:\Projetos\MiranteQuestao5\CleanArchMvc.Api\obj\Debug\net5.0\CleanArchMvc.Api.AssemblyInfo.cs
-C:\Projetos\MiranteQuestao5\CleanArchMvc.Api\obj\Debug\net5.0\CleanArchMvc.Api.csproj.CoreCompileInputs.cache
-C:\Projetos\MiranteQuestao5\CleanArchMvc.Api\obj\Debug\net5.0\CleanArchMvc.Api.MvcApplicationPartsAssemblyInfo.cs
-C:\Projetos\MiranteQuestao5\CleanArchMvc.Api\obj\Debug\net5.0\CleanArchMvc.Api.MvcApplicationPartsAssemblyInfo.cache
